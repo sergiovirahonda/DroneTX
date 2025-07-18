@@ -16,7 +16,6 @@ class RadioDriver {
         RadioDriver(int cePin, int csnPin, byte address);
         void begin();
         void send(const DroneCommand& packet);
-        DroneCommand receive();
 };
 
 #endif
