@@ -52,7 +52,7 @@ internal/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sergiovirahonda/DroneTX
    cd DroneTX
    ```
 
@@ -134,10 +134,6 @@ This project follows a pragmatic testing approach:
 4. Implement the feature
 5. Ensure all tests pass
 6. Submit a pull request
-
-## License
-
-[Add your license information here]
 
 ## Troubleshooting
 
